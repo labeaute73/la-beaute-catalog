@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2026-05-31 12:00">
+<shop>
+<name>La beauté</name>
+<company>Студия аппаратной красоты La beauté</company>
+<url>https://vk.ru/la_beaute_ul</url>
+
+<currencies>
+<currency id="RUR" rate="1"/>
+</currencies>
+
+<categories>
+<category id="1">SMAS-лифтинг</category>
+<category id="2">RF-лифтинг</category>
+<category id="3">Фотоэпиляция</category>
+<category id="4">Косметология</category>
+</categories>
+
+<offers>
+<offer id="1">
+<name>SMAS-лицо</name>
+<price>15000</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+</offer>
+</offers>
+
+</shop>
+</yml_catalog>
